@@ -306,3 +306,9 @@ C:\Users\user\platformer\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cach
 C:\Users\user\platformer\obj\Debug\Assembly.44154EF1.Up2Date
 C:\Users\user\platformer\obj\Debug\Assembly-CSharp.dll
 C:\Users\user\platformer\obj\Debug\Assembly-CSharp.pdb
+C:\Users\user\platformer\Temp\bin\Debug\Cinemachine.dll
+C:\Users\user\platformer\Temp\bin\Debug\com.unity.cinemachine.editor.dll
+C:\Users\user\platformer\Temp\bin\Debug\Unity.InputSystem.dll
+C:\Users\user\platformer\Temp\bin\Debug\Cinemachine.pdb
+C:\Users\user\platformer\Temp\bin\Debug\Unity.InputSystem.pdb
+C:\Users\user\platformer\Temp\bin\Debug\com.unity.cinemachine.editor.pdb
