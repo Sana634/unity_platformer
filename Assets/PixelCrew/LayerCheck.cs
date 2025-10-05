@@ -25,5 +25,6 @@ namespace PixelCrew
         {
             IsTouchingLayer = _collider.IsTouchingLayers(_groundLayer);
         }
+     
     }
 }
