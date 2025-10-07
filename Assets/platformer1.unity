@@ -939,6 +939,7 @@ GameObject:
   m_Component:
   - component: {fileID: 116236000}
   - component: {fileID: 116235999}
+  - component: {fileID: 116236001}
   m_Layer: 0
   m_Name: WaterReflectLarge_1 (1)
   m_TagString: Untagged
@@ -1011,6 +1012,28 @@ Transform:
   m_Father: {fileID: 958521378}
   m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &116236001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 116235998}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468fcb75403a2054ab9773fd49c01c98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _frameRate: 10
+  _loop: 1
+  _sprites:
+  - {fileID: -6018279857378552221, guid: f1d58e8ec2531f04aa0a2d881e663eee, type: 3}
+  - {fileID: -6505298659582443948, guid: f1d58e8ec2531f04aa0a2d881e663eee, type: 3}
+  - {fileID: -7718236803453008505, guid: f1d58e8ec2531f04aa0a2d881e663eee, type: 3}
+  - {fileID: -2749089684739404911, guid: f1d58e8ec2531f04aa0a2d881e663eee, type: 3}
+  _onComplete:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &118682976
 GameObject:
   m_ObjectHideFlags: 0
